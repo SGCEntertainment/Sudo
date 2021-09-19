@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>Sudo</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
-	<link rel="manifest" href="\Sudo/manifest.json">
+    <link rel="manifest" href="\Sudo/manifest.json">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body class="dark">
@@ -89,16 +89,5 @@
       };
       document.body.appendChild(script);
     </script>
-	<script>
-	if ('serviceWorker' in navigator) {
-    console.log("Will the service worker register?");
-    navigator.serviceWorker.register('service-worker.js')
-      .then(function(reg){
-        console.log("Yes, it did.");
-     }).catch(function(err) {
-        console.log("No it didn't. This happened:", err)
-    });
-	}
-	</script>
   </body>
 </html>
