@@ -1,8 +1,8 @@
 {
  "short_name": "Sudo",
  "name": "Sudo",
- "theme_color": "#4A90E2",
- "background_color": "#F7F8F9",
+ "theme_color": "#000000",
+ "background_color": "#000000",
  "display": "standalone",
  "icons": [
   {
