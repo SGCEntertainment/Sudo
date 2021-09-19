@@ -11,8 +11,6 @@ canvas {
     display: block;
 }
 body {
-    color: black;
-    padding: 1%;
     margin: 0;
 }
 #unity-container {
