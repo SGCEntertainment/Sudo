@@ -1,9 +1,9 @@
 {
- "short_name": "",
- "name": "",
+ "short_name": "Sudo",
+ "name": "Sudo Template",
  "theme_color": "#000000",
  "background_color": "#000000",
- "display": "standalone",
+ "display": "fullscreen",
  "icons": [
   {
    "src": "/Sudo/TemplateData/android-icon-36x36.png",
